@@ -54,3 +54,4 @@ npm run dev
 
 # 7. Jalankan server lokal Laravel
 php artisan serve
+

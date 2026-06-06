@@ -16,7 +16,7 @@ class AuthController extends Controller
         if (
             $request->username === "admin"
             &&
-            $request->password === "12345678"
+            $request->password === "88888888"
         ) {
             session([
                 'is_logged_in' => true,
